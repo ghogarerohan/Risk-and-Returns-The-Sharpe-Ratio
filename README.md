@@ -1,0 +1,2 @@
+Project Description
+To get insight of how much financial risk and ROI associated while investing into any asset, a Sharpe ratio applied to actual financial data. This compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns
